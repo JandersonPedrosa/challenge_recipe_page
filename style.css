@@ -95,3 +95,16 @@ main{
 hr{
     margin: 35px 0px;
 }
+
+.instructions-list{
+    padding-left: 23px;
+}
+
+.instructions-list li{
+    margin-bottom: 15px;
+}
+
+.instructions-list li::marker{
+    color: #824B37;
+    font-weight: bold;
+}
